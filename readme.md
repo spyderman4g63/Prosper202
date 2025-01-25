@@ -6,3 +6,6 @@ The goal of this repository is to keep prosper202 alive in the event that the cu
 Prosper202 is licensed under:
 Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported 
 http://creativecommons.org/licenses/by-nc-sa/3.0/ 
+
+
+Try the contnet generation tool Content Goblin today at https://contentgoblin.ai 
